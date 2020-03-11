@@ -1,0 +1,36 @@
+#body-fondo{
+    background: url("../img/Background.jpg") center repeat;
+}
+
+#home{
+    
+    overflow: hidden;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#logo-home{
+    width: 33%;
+    transform: rotate(-15deg);
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+
+#logo{
+    width: 50%;
+    position: relative;
+}
+
+#productos{
+    position: relative;
+    left: 15%;
+}
+
+h2{
+    font-family: 'Bebas Neue', cursive;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
